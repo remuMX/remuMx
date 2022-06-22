@@ -48,5 +48,23 @@
  
 ### Other
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+<details>
+  <summary>My Resume</summary>
  
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ ## Education
+ 
+ ## Experience
+ 
+ 
+</details>
+
+<details>
+  <summary>Personal</summary>
+ 
+ ## Hobbies
+ 
+ ## Geek Contact
+ 
+ 
+</details>
