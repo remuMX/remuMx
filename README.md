@@ -1,5 +1,6 @@
 # Diego Sait Grande Camacho (remuMX)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remuMX)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remuMX)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remuMx)]
  
 ## About Me
 🖥️ Web Developer and geek. Videogames fan, rookie writer and stories lover.
