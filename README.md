@@ -54,21 +54,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remuMx)
 
 <details>
-  <summary>My Resume</summary>
+  <summary> ## My Resume</summary>
  
- ## Education
+ ### Education
  
- ## Experience
+ ### Experience
  
  
 </details>
 
 <details>
-  <summary>Personal</summary>
+  <summary>## Personal</summary>
  
- ## Hobbies
+ ### Hobbies
  
- ## Geek Contact
+ ### Geek Contact
  
  
 </details>
