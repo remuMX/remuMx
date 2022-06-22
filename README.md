@@ -49,12 +49,12 @@
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remuMX)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remuMX&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remuMx)
 
 <details>
-  <summary> ## My Resume</summary>
+  <summary> My Resume</summary>
  
  ### Education
  
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-  <summary>## Personal</summary>
+  <summary>Personal</summary>
  
  ### Hobbies
  
